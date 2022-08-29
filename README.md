@@ -8,30 +8,31 @@ The purpose of this repository:
 
 ### Index
  - Django
-     - https://github.com/kevinbowen777/django_start
-     - https://github.com/kevinbowen777/django_polls
-     - https://github.com/kevinbowen777/learning_log
-     - https://github.com/kevinbowen777/message_board
-     - https://github.com/kevinbowen777/bookstore
-     - https://github.com/kevinbowen777/news
-     - https://github.com/kevinbowen777/library
-     - https://github.com/kevinbowen777/superlists
-     - https://github.com/kevinbowen777/djangdo
-     - https://github.com/kevinbowen777/django_blog
-     - https://github.com/kevinbowen777/cheese
+     - [django-start](https://github.com/kevinbowen777/django_start)
+     - [bookstore](https://github.com/kevinbowen777/bookstore)
+     - [django-blog](https://github.com/kevinbowen777/django_blog)
+     - [cheese](https://github.com/kevinbowen777/cheese)
+     - [django-polls](https://github.com/kevinbowen777/django_polls)
+     - [django-todo](https://github.com/kevinbowen777/djangdo)
+     - [learning-log](https://github.com/kevinbowen777/learning_log)
+     - [library](https://github.com/kevinbowen777/library)
+     - [message-board](https://github.com/kevinbowen777/message_board)
+     - [news](https://github.com/kevinbowen777/news)
+     - [superlists](https://github.com/kevinbowen777/superlists)
  - Django & Django REST framework(DRF):
-      - https://github.com/kevinbowen777/django_api
-      - https://github.com/kevinbowen777/django_api-todo
-      - https://github.com/kevinbowen777/django_api-library
-      - https://github.com/kevinbowen777/djapi-blog
-      - https://github.com/kevinbowen777/djapi-todo
-      - https://github.com/kevinbowen777/djapi-library
-      - https://github.com/kevinbowen777/pastebin-drf-api
+      - [django-api-blog](https://github.com/kevinbowen777/django_api)
+      - [django-api-library](https://github.com/kevinbowen777/django_api-library)
+      - [djapi-blog](https://github.com/kevinbowen777/djapi-blog)
+      - [djapi-todo](https://github.com/kevinbowen777/djapi-todo)
+      - [djapi-library](https://github.com/kevinbowen777/djapi-library)
+      - [pastebin-drf-api](https://github.com/kevinbowen777/pastebin-drf-api)
+ - Django, DRF & React
+      - [django-api-todo](https://github.com/kevinbowen777/django_api-todo)
  - Flask
-      - https://github.com/kevinbowen777/flaskblog
-      - https://github.com/kevinbowen777/flask_chat
+      - [flaskblog](https://github.com/kevinbowen777/flaskblog)
+      - [flask-chat](https://github.com/kevinbowen777/flask_chat)
  - FastAPI
-      - https://github.com/kevinbowen777/recipes
+      - [recipes](https://github.com/kevinbowen777/recipes)
 
 ---
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/kevinbowen777/django_start/blob/master/LICENSE)
