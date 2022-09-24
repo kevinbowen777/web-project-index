@@ -3,12 +3,10 @@
 The purpose of this repository: 
 
  - Provide an orderly index of web-framework projects I am currently building
- - A reference template of "best practices" & standards to be employed in
-    all of my other Django projects.
 
 ### Index
  - Django
-     - [django-start](https://github.com/kevinbowen777/django_start)
+     - [django-start](https://github.com/kevinbowen777/django-start)
      - [bookstore](https://github.com/kevinbowen777/bookstore)
      - [django-blog](https://github.com/kevinbowen777/django_blog)
      - [cheese](https://github.com/kevinbowen777/cheese)
@@ -35,9 +33,9 @@ The purpose of this repository:
       - [recipes](https://github.com/kevinbowen777/recipes)
 
 ---
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/kevinbowen777/django_start/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/kevinbowen777/web-project-index/blob/master/LICENSE)
 ---
 ### Reporting Bugs
 
-   Visit the [Issues page](https://github.com/kevinbowen777/django_start/issues)
+   Visit the [Issues page](https://github.com/kevinbowen777/web-project-index/issues)
       to view currently open bug reports or open a new issue.
