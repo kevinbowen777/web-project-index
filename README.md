@@ -1,8 +1,14 @@
-## web-project-index - A list of personal web projects using Python frameworks
+## web-project-index
 
-The purpose of this repository: 
+<div align="center">
 
- - Provide an orderly index of web-framework projects I am currently building
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/kevinbowen777/web-project-index.svg)](https://github.com/kevinbowen777/web-project-index/issues)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
+
+ - An index of Python web-framework projects I am currently building
 
 ### Index
  - Django
@@ -32,8 +38,6 @@ The purpose of this repository:
  - FastAPI
       - [recipes](https://github.com/kevinbowen777/recipes)
 
----
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/kevinbowen777/web-project-index/blob/master/LICENSE)
 ---
 ### Reporting Bugs
 
