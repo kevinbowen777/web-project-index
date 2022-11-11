@@ -12,7 +12,7 @@ An index of Python web-framework projects.
  
  - [Django](#Django)
  - [Django REST Framework(DRF)](#DRF)
- - [Django, DRF & React](#DRF/React)
+ - [Django, DRF & React](#React)
  - [Flask](#Flask)
  - [FastAPI](#FastAPI)
 
@@ -61,7 +61,7 @@ of a template, for me, for building an end-to-end development workflow and overa
   - [djapi-todo](https://github.com/kevinbowen777/djapi-todo)
   - [djapi-library](https://github.com/kevinbowen777/djapi-library)
   - [pastebin-drf-api](https://github.com/kevinbowen777/pastebin-drf-api)
-### DRF/React
+### React
   - [django-api-todo](https://github.com/kevinbowen777/django-api-todo)
 ### Flask
   - [flaskblog](https://github.com/kevinbowen777/flaskblog)
