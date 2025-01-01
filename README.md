@@ -45,14 +45,16 @@ of a template, for me, for building an end-to-end development workflow and overa
 ### Django
  - [django-start](https://github.com/kevinbowen777/django-start)
  - [bookstore](https://github.com/kevinbowen777/bookstore)
- - [django-blog](https://github.com/kevinbowen777/django-blog)
  - [cheese](https://github.com/kevinbowen777/cheese)
+ - [django-blog](https://github.com/kevinbowen777/django-blog)
  - [django-polls](https://github.com/kevinbowen777/django-polls)
+ - [django-shop](https://github.com/kevinbowen777/django-shop)
  - [django-todo](https://github.com/kevinbowen777/django-todo)
  - [learning-log](https://github.com/kevinbowen777/learning-log)
  - [library](https://github.com/kevinbowen777/library)
  - [message-board](https://github.com/kevinbowen777/message-board)
  - [news](https://github.com/kevinbowen777/news)
+ - [pixshare](https://github.com/kevinbowen777/pixshare)
  - [superlists](https://github.com/kevinbowen777/superlists)
 ### DRF
   - [django-api-blog](https://github.com/kevinbowen777/django-api-blog)
